@@ -1,0 +1,52 @@
+/* Style untuk section about */
+.about {
+	background-color: #f7f7f7;
+	padding-top: 80px;
+	padding-bottom: 80px;
+	}
+	
+	/* Style untuk gambar ikan cupang */
+	.about-img img {
+	width: 100%;
+	height: auto;
+	}
+	
+	/* Style untuk teks judul */
+	.about-text h2 {
+	font-size: 36px;
+	font-weight: bold;
+	margin-bottom: 30px;
+	}
+	
+	/* Style untuk teks paragraf */
+	.about-text p {
+	font-size: 18px;
+	line-height: 1.8;
+	margin-bottom: 30px;
+	}
+	
+	/* Style untuk ruang antar kolom */
+	.row {
+	margin-right: -15px;
+	margin-left: -15px;
+	}
+	
+	/* Style untuk kolom */
+	.col-lg-4, .col-md-12, .col-12 {
+	padding-right: 15px;
+	padding-left: 15px;
+	}
+	
+	/* Style untuk kolom pada ukuran layar medium dan kecil */
+	@media (max-width: 991px) {
+	.about-img {
+	margin-bottom: 30px;
+	}
+	}
+	
+	/* Style untuk margin kiri pada kolom pada ukuran layar besar */
+	@media (min-width: 992px) {
+	.ps-lg-5 {
+	margin-left: 60px;
+	}
+	}

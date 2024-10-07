@@ -1,0 +1,308 @@
+Sistem Rekomendasi Film Berbasis Website dengan Metode Prototype Menggunakan Algoritma K-Nearest Neighbors (KNN)	sistem rekomendasi, content-based filtering, k-neareast neighbors, movie
+Simulasi Unjuk Kerja Discrete Wavelet Transform (DWT) dan Discrete Cosine Transform (DCT) Untuk Pengolahan Sinyal Radar Di Daerah Yang Ber-Noise Tinggi	radar, discrete wavelet transform, discrete cosine transform, window, noise	
+Komparasi Filter Daubechies Dalam Wavelet Transform Berbasis Singular Value Decomposition	watermarking, discrete wavelet transform, singular value decomposition, filter haar, filter daubechies
+Kombinasi RSA-CRT dengan Random LSB untuk Keamanan Data di Kanwil Agama Prov. Sumatra Utara	cryptographic RSA-CRT, steganography random lsb, pseudo random number generator (PRNG), Linear congruential generator
+Penerapan Metode Klasifikasi Support Vector Machine (SVM), Pada Data Akreditasi Sekolah Dasar (SD) di kabupaten Magelang	akreditasi, klasifikasi, support vector machine, hyperplane, gausian RBF kernel, akurasi
+Sistem Prediksi Penyakit Kanker Serviks menggunakan CART, naïve bayes, dan K-NN	CART, naive bayes, k-neareast neighbors, klasifikasi
+Penerapan Theta* pathfinding untuk Navigasi Non-Player Character pada Gim Maze	artificial intelligence, pathfinding, a*, theta*, maze, non-player character
+Penerapan algoritma basic theta* pada game hexaconquest	pathfinding, a*, basic theta*, penerapan, perbandingan, artificial intelligence
+Pembuatan data warehouse penjualan produk, dan penerapan dalam studi kasus divisi greenscope energy - PT. Tustika Nagata Surabaya	association rule, data mining, data warehouse
+Fuzzy Mamdani Dalam Menentukan TingkatKeberhasilan Dosen Mengajar	logika fuzzy, logika fuzzy mamdani, himpunan fuzzy, aplikasi fungsi implikasi, komposisi aturan, penegasan, defuzzy
+Prediksi Jumlah Penduduk Menggunakan Fuzzy Time Series Model Chen	fuzzy time series chen, jumlah penduduk dan AFER
+Sistem Rekomendasi Pada E-Commerce Menggunakan K-Nearest Neighbor	sistem rekomendasi, collaborative filtering, content-based filtering
+Prediksi Jumlah Kunjungan Pasien Rawat Jalan Menggunakan Metode Genetic Fuzzy Systems Studi Kasus: Rumah Sakit Usada Sidoarjo	logika fuzzy, mamdani fuzzy, algoritma genetika, peramalan, kunjungan pasien rawat jalan
+Sistem Prediksi Jumlah Pasien Covid-19 Menggunakan Metode Trend Least Square Berbasis Web	COVID-19, prediksi, trend least square, rstudio, data mining
+Perancangan Sistem Rekomendasi Dokumen Dengan Pendekatan Content-Based Filtering	sistem rekomendasi, dokumen, content-based filtering
+KLASIFIKASI SINYAL EEG MENGGUNAKAN SUPPORT VECTOR MACHINE (SVM) UNTUK DETEKSI KEBOHONGAN	EEG, Support Vector Machine, deteksi kebohongan
+Klasifikasi Sinyal EEG pada Sistem BCI Pergerakan Jari Manusia Menggunakan Convolutional Neural Network	klasifikasi, EEG, motor imagery, lima jari manusia, 1D-CNN
+Algoritma K-Nearest Neighbor Berbasis Particle Swarm Optimization Untuk Prediksi Penyakit Ginjal Kronik	Prediksi, k-neareast neighbors, Particle Swarm Optimization, Penyakit Ginjal Kronik
+IMPLEMENTASI RATIONAL UNIFIED PROCESS DALAM SISTEM INFORMASI E-SEKOLAH (Studi Kasus SMA Negeri 1 Cibadak)	Pendidikan, Rational Unified Process (RUP), E-Sekolah, Arsitektur, Integrasi
+Implementasi Deep Learning Pada Identifikasi Jenis Tumbuhan Berdasarkan Citra Daun Menggunakan Convolutional Neural Network	Deep Learning, Convolutional Neural Network
+IDENTIFIKASI KONDISI SINYAL ELECTROENCEPHALOGRAM (EEG) YANG TERPAPAR RADIASI SINYAL GAWAI 4G LTE 1800 MHz MENGGUNAKAN LEARNING VECTOR QUANTIZATION (LVQ)	EEG, radiasi gawai 4G LTE, LVQ, transformasi wavelet
+ANALISIS FUNGSI AKTIVASI SIGMOID BINER DAN SIGMOID BIPOLAR DALAM ALGORITMA BACKPROPAGATION PADA PREDIKSI KEMAMPUAN SISWA	Jaringan saraf tiruan, backpropagation, fungsi aktivasi sigmoid biner dan sigmoid bipolar
+Penerapan Metode Random Over-Under Sampling dan Random Forest untuk Klasifikasi Penilaian Kredit	Penilaian Kredit, Random Forest, Klasifikasi, ketidakseimbangan kelas, Random Over-Under Sampling
+Pengaruh Fungsi Aktivasi, Optimisasi dan Jumlah Epoch Terhadap Performa Jaringan Saraf Tiruan	jaringan saraf tiruan, RELU, TANH, Adam, epoch
+PENGGUNAAN ALGORITMA RANDOM OVER SAMPLING UNTUK MENGATASI MASALAH IMBALANCE DATA PADA KLASIFIKASI GIZI BALITA	Random Over Sampling, Ketidakseimbangan Kelas, Naive Bayes, Akurasi
+IMPLEMENTASI ALGORITMA BACKPROPAGATION UNTUK MEMPREDIKSI JUMLAH PENGUNJUNG WISATA MUSIUM	peramalan, jaringan syaraf tiruan, backpropagation
+Implementasi Metode Fuzzy Time Series untuk Peramalan Jumlah Pengunjung di Benteng Fort Rotterdam	Fuzzy, Time Series, Peramalan, Fort Rotterdam
+Peramalan Jumlah Kunjungan Wisatawan Kota Batu Menggunakan Metode Time Invariant Fuzzy Time Series	pariwisata, peramalan, Time Invariant, Fuzzy Time Series, Average – based
+Peramalan Data Kunjungan Wisatawan Mancanegara ke Indonesia menggunakan Fuzzy Time Series	wisatawan, pariwisata, peramalan, time series, fuzzy time series
+ANALISA SPK DENGAN METODE AHP DALAM MENENTUKAN FAKTOR KONSUMEN DALAM MELAKUKAN KREDIT BARANG	Sistem Pendukung Keputusan, Kredit, Konsumen, Analytical Hierarchy Process, PT. ADIRA Dinamika Multi Finance Tbk Cabang Pematangsiantar
+SISTEM PENDUKUNG KEPUTUSAN PENENTUAN PRODUK ASURANSI PAA DENGAN METODE AHP	Analytic Hierarchy Process, Sistem Pendukung Keputusan, Produk Prulink Assurance Account
+PENERAPAN METODE ADDITIVE RATIO ASSESSMENT(ARAS) DALAM PENDUKUNG KEPUTUSAN PEMILIHAN SUSU GYM TERBAIK UNTUK MENAMBAH MASA OTOT	Susu Gym, Metode ARAS, Sistem Pendukung Keputusan
+Penerapan Metode SMART Dalam Pengambilan Keputusan Penerima Beasiswa Yayasan AMIK Tunas Bangsa	Beasiswa, SMART, Sistem Pendukung Keputusan
+Sistem Pendukung Keputusan Berbasis Web Untuk Pemilihan Café Menggunakan Metode Smart (Simple Multi-Attribute Rating Technique)	Sistem Pendukung Keputusan, Cafe, SMART
+Algoritma K-Nearest Neighbor Classification Sebagai Sistem Prediksi Predikat Prestasi Mahasiswa	Early Warning System (EWS), k-neareast neighbors, Prediksi Predikat Mahasiswa
+Prediksi Harga Bitcoin Menggunakan Metode Random Forest	Prediksi, Harga Bitcoin, Random Forest Regression, MAPE
+Rancang Bangun Sistem Informasi Peramalan Penjualan pada Songkok Palapa Gresik dengan menggunakan Metode Time-Series Berbasis Website	Songkok, Sistem Informasi Peramalan, Peramalan Penjualan, Metode Peramalan Time-Series, Nilai Ketepatan Peramalan
+Implementasi Metode Klasifikasi Naïve Bayes Dalam Memprediksi Besarnya Penggunaan Listrik Rumah Tangga	Data Mining, Naive Bayes, Penggunaan Listrik
+PENERAPAN METODE BAYES DALAM PREDIKSI SEGEMENTASI PASAR PENJUALAN SMARTPHONE	Smartphone, Sistem Pakar, Metode Bayes
+Aplikasi Berbasis Sistem Pakar Untuk Memprediksi Peluang Kerja Calon Lulusan Mahasiswa Sistem Informasi Universitas Dian Nuswantoro	Prediksi Peluang Kerja, Sistem Pakar
+APLIKASI PREDIKSI USIA KELAHIRAN DENGAN METODE NAIVE BAYES	aplikasi, naive bayes, prediksi, usia kelahiran
+Prediksi Hasil Belajar Siswa Secara Daring pada Masa Pandemi COVID-19 Menggunakan Metode C4.5	Daring, Pandemi COVID-19, DataMining, C4.5, Rule
+Optimasi K-Nearest Neighbor Dengan Particle Swarm Optimization Untuk Memprediksi Harga Komoditi Karet	Prediksi Harga Karet, k-neareast neighbors, Particle Swarm Optimization
+DESAIN DATABASE UNTUK OPTIMALISASI SISTEM PREDIKSI TRANSAKSI PENJUALAN	database, optimalisasi, transaksi
+Prediksi Mata Uang Bitcoin Menggunakan LSTM dan Analisis Sentimen pada Sosial Media	Prediksi, Fluktuasi, Cryptocurrency, Bitcoin, Analisis Sentimen
+PREDIKSI KELANCARAN PEMBAYARAN CICILAN CALON DEBITUR DENGAN METODE K-NEAREST NEIGHBOR	Data Mining, Euclidean, k-neareast neighbors, Prospective Borrowers
+Penerapan Metode Random Over-Under Sampling dan Random Forest untuk Klasifikasi Penilaian Kredit	Penilaian Kredit, Random Forest, Klasifikasi, ketidakseimbangan kelas, Random Over-Under Sampling
+Penerapan Algoritma K-Nearest Neighbor Untuk Klasifikasi Efektivitas Penjualan Vape (Rokok Elektrik) pada “Lombok Vape On”	k-neareast neighbors, Vape, Lombok Vape On
+Klasifikasi Daerah Tertinggal di Indonesia Menggunakan Algoritma SVM dan k-NN	klasifikasi, machine learning, supervised learning, underdeveloped areas, Support Vector Machine
+PENANGANAN IMBALANCE DATA PADA KLASIFIKASI KEMUNGKINAN PENYAKIT STROKE	ketidakseimbangan Kelas, klasifikasi, Data Balancing, Penyakit Stroke
+Penerapan Extreme Programming Pada Sistem Informasi Penjualan Pakaian Berbasis Web (Studi Kasus Toko ST Jaya)	Sistem Informasi, Extreme Programing
+PENERAPAN METODE EXTREME PROGRAMMING DALAM PERANCANGAN APLIKASI PERHITUNGAN KUOTA SKS MENGAJAR DOSEN	Extreme Programming
+IMPLEMENTASI METODE SCRUM PADA PENGEMBANGAN APLIKASI DELIVERY ORDER BERBASIS WEBSITE (STUDI KASUS PADA RUMAH MAKAN LOMBOK IDJO SEMARANG)	Scrum, Pengembangan sistem, Web
+Algoritma K-Nearest Neighbor Berbasis Particle Swarm Optimization Untuk Prediksi Penyakit Ginjal Kronik	Prediksi, k-neareast neighbors, Particle Swarm Optimization, Penyakit Ginjal Kronik
+DESAIN DAN IMPLEMENTASI DATA WAREHOUSE UNTUK PREDIKSI PENJUALAN PRODUK PADA TOKO MEKARSARI	Data warehouse, Gudang Data, Business Intelligence
+Klasifikasi Penyakit Jantung Menggunakan Metode K-Nearest Neighbor	k-neareast neighbors, Akurasi, Presisi, recall, f-measure
+Sistem Prediksi Penyakit Kanker Serviks Menggunakan CART, Naive Bayes, dan k-NN	CART, Naive Bayes, k-neareast neighbors, Klasifikasi
+SISTEM PAKAR BIMBINGAN DAN KONSELING SISWA DENGAN METODE CERTAINTY FACTOR BERBASIS WEB PADA SMAN 1 CIKEMBAR	Sistem Pakar, Certainty Factor, Bimbingan dan konseling siswa, berbasis Web
+Sistem Prediksi Gejala Virus Korona dengan Metode Forward Chaining	prediksi, penyakit Korona, Forward Chaining, akurasi
+KOMPARASI METODE KLASIFIKASI DATA MINING ALGORITMA C4.5 DAN NAIVE BAYES UNTUK PREDIKSI PENYAKIT HEPATITIS	Hepatitis, Data Mining, Algoritma C4.5, Naive Bayes
+KLASIFIKASI PENYAKIT STROKE MENGGUNAKAN METODE NAIVE BAYES CLASSIFIER (STUDI KASUS PADA RUMAH SAKIT UMUM DAERAH UNDATA PALU)	Klasifikasi, Naive Bayes Classifier, Stroke, Data Training, Data Testing
+ANALISIS ALGORITMA KLASIFIKASI NEURAL NETWORK UNTUK DIAGNOSIS PENYAKIT KANKER PAYUDARA	kanker payudara, klasifikasi, data mining, jaringan syaraf tiruan, rapid miner.
+Klasifikasi Kanker Payudara Menggunakan Algoritma Gain Ratio	data mining, decision tree, gain ratio, kanker payudara, klasifikasi
+Perancangan Model Data Warehouse (Studi Kasus : Post Shop PT. Pos Indonesia)	OLTP, Data Warehouse, Multidimensional Data Model, ETL, Analisis Reporting
+Penerapan Metode Dempster Shafer Untuk Mendiagnosa Penyakit Dari Akibat Bakteri Salmonella	Sistem Pakar, Metode Dempster Shafer, Bakteri Salmonella
+RANCANG BANGUN APLIKASI SISTEM PAKAR UNTUK KONSULTASI PERILAKU SISWA DI SEKOLAH MENGGUNAKAN METODE FORWARD CHAINING	sistem pakar, konsultasi perilaku siswa, forward chaining
+APLIKASI SISTEM PAKAR UNTUK MEMBANTU GURU DALAM MEMILIH JENIS MEDIA PEMBELAJARAN	sistem pakar, android
+Sistem Pakar Menentukan Tingkat Kecocokan Lahan Untuk Tanaman Jati Menggunakan Metode Forward Chaining	Tingkat kecocokan tanaman Jati, forward chaining, sistem pakar
+SISTEM PAKAR UNTUK MENGIDENTIFIKASI KEPRIBADIAN SISWA MENGGUNAKAN METODE CERTAINTY FACTOR DALAM MENDUKUNG PENDEKATAN GURU	Sistem Pakar, Certainty Factor, Kepribadian
+ANALISIS DAN PERANCANGAN SISTEM PAKAR MENGIDENTIFIKASI KARAKTERISTIK ANAK BERKEBUTUHAN KHUSUS SLB NEGERI BATANG	sistem pakar, Forward Chaining Method, Data
+SISTEM PAKAR BIMBINGAN DAN KONSELING SISWA DENGAN METODE CERTAINTY FACTOR BERBASIS WEB PADA SMAN 1 CIKEMBAR	Sistem Pakar, Certainty Factor, Bimbingan dan konseling siswa, berbasis Web
+Identifikasi Kepribadian Siswa Melalui Penerapan Sistem Pakar Dengan Teknik Forward Chaining	Sistem Pakar, Forward Chaining, Kepribadian, PHP, Database MySQL
+Sistem Pakar Diagnosa Penyakit Infeksi Saluran Pernafasan Akut Pada Anak Menggunakan Teorema Bayes	Sistem Pendukung Keputusan, Naive Bayes, Skull cap
+SISTEM PAKAR KLASIFIKASI TUNAGRAHITA MENGGUNAKAN METODE FORWARD CHAINING BERBASIS WEB (STUDI KASUS : SLB TUNAS KASIH 2 TURI )	Sistem pakar, Tunagrahita, Diagnosa, klasifikasi, Forward Chaining
+Analisis Sentimen Masyarakat Terhadap Virus Corona Berdasarkan Opini Dari Twitter Berbaris Web Scaraper	analisis sentimen, web
+IMPLEMENTASI METODE RATIONAL UNIFIED PROCESS PADA MOBILE DIGITAL LIBRARY	Digital Library, dan Rational Unified Process (RUP)
+Model Simulasi Rational Unified Process Pada Pengembangan Perangkat Lunak	Rational Unified Process (RUP), Model Simulasi, Manajemen Proyek
+APLIKASI AGEN CERDAS UNTUK PEMBELAJARAN PEMPROGRAMAN BERORIENTASI OBJEK BERBASIS NATURAL LANGUAGE PROCESSING (NLP)	Sistem Pembelajaran Cerdas, Natural Language Processing (NLP), Parsing, Similarity, Stemming, Basis Pengetahuan
+KLASIFIKASI DATA TIDAK SEIMBANG MENGGUNAKAN ALGORITMA SMOTE DAN k-NEAREST NEIGHBOR	ketidakseimbangan kelas, Synthetic Minority Over-sampling Technique, k-Nearest Neighbors
+Pendekatan Level Data untuk Menangani Ketidakseimbangan Kelas pada Prediksi Cacat Software	Ketidakseimbangan Kelas, Prediksi
+PENERAPAN ANALISIS SENTIMEN PADA PENGGUNA TWITTER MENGGUNAKAN METODE K-NEAREST NEIGHBOR	K–Nearest Neighbors, Twitterscraper, TF-IDF, analisis sentimen
+Penerapan Teknik SMOTE untuk Mengatasi Imbalance Class dalam Klasifikasi Objektivitas Berita Online Menggunakan Algoritma KNN	klasifikasi, k-Nearest Neighbors, Synthetic Minority Over-sampling Technique, subjektif, objektif
+Peningkatan Performa Analisis Sentimen Dengan Resampling dan Hyperparameter pada Ulasan Aplikasi BNI Mobile	Analisis sentimen, BNI Mobile Banking, Resampling, Support vector classifier
+Sentimen Analisis Stay Home menggunakan metode klasifikasi Naive Bayes, Support Vector Machine, dan k-Nearest Neighbor	Support vector machine, analisis sentimen
+Analisis Sentimen Tentang Opini Pilkada Dki 2017 Pada Dokumen Twitter Berbahasa Indonesia Menggunakan Naïve Bayes dan Pembobotan Emoji	analisis sentimen, Twitter, Naive Bayes, pembobotan emoji
+Implementasi Logika Fuzzy Pada Sendok Makan Penderita Parkinson	Logika Fuzzy
+Implementasi Metode Fuzzy Time Series untuk Peramalan Jumlah Pengunjung di Benteng Fort Rotterdam	Fuzzy, Time Series, Peramalan, Fort Rotterdam
+PENERAPAN METODE FUZZY MAMDANI UNTUK MEMPREDIKSI JUMLAH PRODUKSI KARET (STUDI KASUS: DATA PERSEDIAAN DAN PERMINTAAN PRODUKSI KARET PADA PTP NUSANTARA XIV (PERSERO) KEBUN AWAYA, TELUK ELPAPUTIH, MALUKU-INDONESIA)	Logika Fuzzy Mamdani
+PERAMALAN MENGUNAKAN FUZZY TIME SERIES CHEN (STUDI KASUS: CURAH HUJAN KOTA SAMARINDA)	Average based, curah hujan, fuzzy time series, metode Chen, peramalan
+Prediksi Hasil Belajar Siswa Secara Daring pada Masa Pandemi COVID-19 Menggunakan Metode C4.5	Daring, Pandemi COVID, Data Mining, C4.5, Rule
+Sistem Pakar Diagnosa Virus Corona Dengan Metode Naïve Bayes	sistem pakar, Naive Bayes
+SISTEM PAKAR DIAGNOSA PENYAKIT TANAMAN KELAPA SAWIT MENGGUNAKAN TEOREMA BAYES	Sistem pakar, kelapa sawit, diagnosa
+MENGGUNAKAN METODE FORWARD CHAINING (STUDI KASUS : DINAS PETERNAKAN KABUPATEN DHARMASRAYA)	Sistem, Pakar, Komputerisasi, Ternak, Forward Chaining
+APLIKASI SISTEM PAKAR UNTUK MEMPREDIKSI HASIL PERTANDINGAN SEPAK BOLA MENGGUNAKAN DEMPSTER-SHAFER THEORY (DST)	Dempster-Shafer Theory (DST), Sistem pakar
+IDENTIFIKASI SEL KANKER PROSTAT MENGGUNAKAN METODE SEGMENTASI BERDASAR UKURAN OBJEK PADA CITRA	Deteksi Tepi, Segmentasi, Analisis Citra, Jumlah Piksel, Sel Kanker Prostat
+IMPLEMENTASI ALGORITMA MULTINOMIAL NAIVE BAYES CLASSIFIER PADA SISTEM KLASIFIKASI SURAT KELUAR	Surat Keluar, Klasifikasi, Text Mining, Multinomial Naive Bayes Classifier, Confixstripping Stemmer, TF-IDF
+Perancangan Sistem Pakar Untuk Memecahkan Masalah Hardware, BIOS dan Windows pada Personal Computer	sistem pakar
+Prediksi Penyebab dan Solusi Ketidaknyamanan Kerja dengan Aplikasi Sistem Pakar	sistem pakar, jaringan syaraf tiruan, backpropagation, learning vector quantization
+Aplikasi Sistem Pakar Diagnosa Penyakit Pada Anak Bawah Lima Tahun Menggunakan Metode Forward Chaining	Sistem Pakar, Forward Chaining, Diagnosa Penyakit, Manajemen Terpadu Balita Sakit, Knowladge Base
+Rancang Bangun Sistem Pakar Prediksi Stres Belajar Dengan Neural Network Algoritma Backpropagation	Sistem pakar, jaringan syaraf tiruan, backpropagation
+Rancangan Penerapan Metode Naive Bayes dalam Mendeteksi Hate Speech di Media Sosial	Naive Bayes, analisis sentimen
+PEMBUATAN APLIKASI SISTEM PAKAR BERBASIS WEB UNTUK DIAGNOSIS PENYAKIT INFEKSI YANG DISEBABKAN OLEH BAKTERI DAN VIRUS	bakteri, forward chaining, sistem pakar, virus, web
+PEMODELAN SISTEM PAKAR ANALISIS KARAKTERISTIKANAK PRASEKOLAH DENGAN GENRE MUSIK	ekspresi, karakter, Certainty Factor (CF), sistem pakar
+SISTEM PAKAR DENGAN METODE DEMPSTER SHAFER UNTUK DIAGNOSIS GANGGUAN LAYANAN INDIHOME DI PT TELKOM MAGELANG	sistem pakar, gangguan jaringan, diagnosis, Dempster Shafer.
+PERANCANGAN DAN IMPLEMENTASI SISTEM PAKAR DIAGNOSA KERUSAKAN KENDARAAN TOYOTA BERBASIS ANDROID	Sistem Pakar, Backward Chaining, Certainty Factor
+SISTEM PAKAR DIAGNOSA PENYAKIT KACANG KEDELAI MENGGUNAKAN METODE CERTAINTY FACTOR	sistem pakar, nilai keyakinan, certainty factor
+SISTEM PAKAR DIAGNOSA PENYAKIT PADA TANAMAN KELAPA SAWIT DENGAN METODE DEMPSTER-SHAFER	Sistem Pakar, Kelapa Sawit, Algoritma, Dempster-Shafer theory
+Pemodelan Sistem Pakar Diagnosis Penyakit Tanaman Apel Manalagi Dengan Metode Backward Chaining Menggunakan Certainty Factor	sistem pakar, Certainy Factor, Backward Chaining
+SISTEM PAKAR: DIAGNOSIS PENYAKIT UNGGAS DENGAN METODE CERTAINTY FACTOR	sistem pakar, diagnosis penyakit, metode Certainty Factors (CF)
+Sistem Pakar Identifikasi Tipe Kepribadian Karyawan Menggunakan Metode Certainty Factor	Sistem pakar, Certainty Factors
+Sistem Pakar Mendiagnosa Penyakit Ikan Hias Air Tawar Menggunakan Metode Forward Chaining dan Theorema Bayes Berbasis Web	Sistem Pakar, Fordward Chaining, Theorema Bayes, Penyakit Ikan Hias Air Tawar
+DAERAH ISTIMEWA YOGYAKARTA MENGGUNAKAN KOMBINASI FUZZY TIME SERIES CHEN DENGAN PARTICLE SWARM OPTIMIZATION	Peramalan, PDRB, Fuzzy Time Series Chen, Particle Swarm Optimization
+Peramalan Penjualan dengan Metode Fuzzy Time Series Ruey Chin Tsaur	Peramalan, fuzzy time series, standar deviasi
+KOMBINASI ALGORITMA GENETIKA DAN ALGORITMA FUZZY TIME SERIES DALAM PREDIKSI JUMLAH CALON MAHASISWA BARU STIKOM DINAMIKA BANGSA JAMBI	algoritma genetic, fuzzy time series, prediksi
+MODEL PERAMALAN JUMLAH PENYAKIT DEMAM BERDARAH DENGAN PENDEKATAN METODE FUZZY LINEAR REGRESSION (FLR)	Metode Peramalan, Fuzzy Linear Regression, MAPE, demam berdarah, interval
+PREDIKSI INFLASI INDONESIA BERDASARKAN FUZZY ANN MENGGUNAKAN ALGORITMA GENETIKA	Algoritma Genetika, Backpropagation, Inflasi, jaringan syaraf tiruan, Prediksi
+Prediksi Harga Emas Menggunakan Metode Fuzzy Time Series Model Algoritma Chen	emas, investasi, fuzzy time series, algoritma chen, prediksi
+PERBANDINGAN MODEL CHEN DAN MODEL LEE PADA METODE FUZZY TIME SERIES UNTUK PREDIKSI HARGA EMAS	Average based fuzzy time series, prediksi emas, model Chen, model Lee
+SISTEM PAKAR DIAGNOSA PENYAKIT IKAN GURAME DENGAN MENGGUNAKAN FIS MAMDANI	carp, diseases of the body surface of the fish, Sistem Pakar, fuzzy logic, Fuzzy Mamdani
+Layanan Diagnosa Deteksi Penyakit Jantung Dengan Forward Chaining Dan Fuzzy Logic Mamdani Berbasis Mobile	android, heart, forward chaining, fuzzy logic mamdani, diagnose
+IMPLEMENTASI METODE FUZZY MAMDANI PADA SISTEM PAKAR UNTUK DIAGNOSIS PENYAKIT TANAMAN PADI	Fuzzy Mamdani, Sistem Pakar, Tanaman Padi
+REKAYASA PERANGKAT LUNAK GUNA MENENTUKAN PENYAKIT TANAMAN PADI DENGAN METODE FUZZY MAMDANI	Rekayasa Perangkat Lunak, Penyakit Tanaman Padi, Fuzzy Mamdani
+Sistem Pakar Diagnosis Potensi Penyebaran Penyakit pada Tanaman Cabai Menggunakan Fuzzy Mamdani	penyakit cabai, sistem pakar, fuzzy Mamdani
+Sistem Pakar Mendiagnosis Penyakit Jantung dengan Metode Fuzzy Set	Sistem pakar, Fuzzy logic, penyakit jantung
+SISTEM PAKAR UNTUK DIAGNOSA PENYAKIT RABIES PADA ANJING MENGGUNAKAN METODE FUZZY MAMDANI BERBASIS WEB	Sistem pakar, rabies pada anjing, Fuzzy Mamdani
+PERANCANGAN APLIKASI INFORMASI MULTIMEDIA TANAMAN BUAH KEBUN BOGOR DENGAN AUGMENTED REALITY	Multimedia, Augmented Reality, Graphic User Interface, Kebun Raya Bogor
+IDENTIFIKASI JENIS TUMBUHAN MENGGUNAKAN CITRA DAUN BERBASIS JARINGAN SARAF TIRUAN (ARTIFICIAL NEURAL NETWORKS)	Pengolahan citra, Jaringan Saraf Tiruan, citra daun
+Implementasi Convolutional Neural Network Untuk Identifikasi Jenis Tanaman Melalui Daun	Identifikasi Jenis Daun, Supervised Classification, Deep Learning, CNN
+SISTEM TEMU KEMBALI CITRA DAUN TUMBUHAN MENGGUNAKAN METODE EIGENFACE	Citra, daun, Euclidean, pixel, eigenface, grayscale
+Pengenalan Pola Daun untuk Membedakan Tanaman Padi dan Gulma Menggunakan Metode Principal Components Analysis (PCA) dan Extreme Learning Machine (ELM)	Padi, Gulma, Pengenalan Pola, Principal Component Analysis, Extreme Learning Machine
+Klasifikasi Jenis Mangga Berdasarkan Bentuk Daun Menggunakan Metode K-Nearest Neighbor	Mangga, Deteksi Tepi Sobel, K-Nearest Neighbors
+Identifikasi Tanaman Buah Berdasarkan Fitur Bentuk, Warna dan Tekstur Daun Berbasis Pengolahan Citra dan Learning Vector Quantization(LVQ)	Pengenalan Pola, Bentuk, Tekstur, Warna learning vector quantization
+MACHINE LEARNING OBJECT DETECTION TANAMAN OBAT SECARA REAL-TIME MENGGUNAKAN METODE YOLO (YOU ONLY LOOK ONCE)	machine learning, deteksi objek
+Penerapan Metode Jaringan Syaraf Tiruan Radial Basis Function Untuk Identifikasi Jenis Mangga Berdasarkan Pola Daun	Jaringan Syaraf Tiruan, Radial Basis Function Network, Daun Mangga, Ekstraksi Ciri
+Mengidentifikasi tanaman beracum pada pola daun dengan jaringan saraf tiruan learning vector quantification	tanaman beracun, pengenalan pola, learning vector quantization
+PENERAPAN ALGORITMA A* (STAR) UNTUK MENCARI RUTE TERCEPAT DENGAN HAMBATAN	A*, simulasi, rute, kemacetan, artificial intelligence
+PATHFINDING PADA LINGKUNGAN STATIS BERDASARKAN ARTIFICIAL POTENTIAL FIELD DENGAN FLOCKING BEHAVIORUNTUK NON-PLAYER CHARACTER FOLLOWER PADAGAME	Artificial Intelligence, Game, pathfinding, Artificial Potential Field, Flocking behavior
+REVIEW ALGORITMA C-THETA* DAN PROSPEK IMPLEMENTASINYA DI MASA DEPAN	Perencanaan Jalan, C-Theta*, Pengujian, Implementasi dimasa depan, Artificial Intelligence
+MODEL ANALISIS PREDIKSI MENGGUNAKAN METODE FUZZY TIME SERIES	Prediksi,Fuzzy,Fuzzy Time Series
+KOMBINASI ALGORITMA GENETIKA DAN ALGORITMA FUZZY TIME SERIES DALAM PREDIKSI JUMLAH CALON MAHASISWA BARU STIKOM DINAMIKA BANGSA JAMBI	algoritma genetika, algoritma fuzzy time series, prediksi
+MODEL PERAMALAN JUMLAH PENYAKIT DEMAM BERDARAH DENGAN PENDEKATAN METODE FUZZY LINEAR REGRESSION (FLR)	Metode Peramalan, Fuzzy Linear Regression, MAPE, demam berdarah, interval
+PREDIKSI INFLASI INDONESIA BERDASARKAN FUZZY ANN MENGGUNAKAN ALGORITMA GENETIKA	Algoritma Genetika, Backpropagation, Inflasi, jaringan syaraf tiruan, Prediksi
+Optimasi Fuzzy Time Series Untuk Peramalan Kebutuhan Hidup Layak Kota Kediri Dengan Menggunakan Algoritme Genetika	kebutuhan hidup layak, fuzzy time series, dan algoritme genetika
+Metode Fuzzy Time Series Cheng dalam Memprediksi Jumlah Wisatawan di Provinsi Sumatera Barat	Fuzzy Time Series Cheng, Prediksi, Wisatawan
+Optimasi Interval Fuzzy Time Series Menggunakan Particle Swarm Optimization pada Peramalan Permintaan Darah : Studi Kasus Unit Transfusi Darah Cabang - PMI Kota Malang	permintaan darah, peramalan, fuzzy time series, particle swarm optimization
+Optimasi Fuzzy Time Series Menggunakan Algoritma Particle Swarm Optimization Untuk Peramalan Jumlah Penduduk Di Kabupaten Probolinggo	Jumlah Penduduk, Peramalan, Fuzzy Time Series, Particle Swarm Optimization
+Peramalan Jumlah Penumpang Kapal Laut Menggunakan Metode Fuzzy Runtun Waktu Chen Orde Tinggi	Fuzzy Time Series, Orde Tinggi, Penumpang Kapal, Testing, Training
+PERBANDINGAN METODE RUNTUN WAKTU FUZZY-CHEN DAN FUZZYMARKOV CHAIN UNTUK MERAMALKAN DATA INFLASI DI INDONESIA	fuzzy time series, Markov chain, MSE, MAPE
+Peramalan Nilai Tukar Petani Subsektor Peternakan Menggunakan Fuzzy Time Series Lee	Fuzzy Time Series Lee, Nilai Tukar Petani, Peramalan
+PERAMALAN MENGUNAKAN FUZZY TIME SERIES CHEN (STUDI KASUS: CURAH HUJAN KOTA SAMARINDA)	Average based, curah hujan, fuzzy time series, metode Chen, peramalan
+IMPLEMENTASI METODE FUZZY TIME SERIES SINGH PADA PERAMALAN BANGGAI CARDINALFISH DI BALAI PERIKANAN BUDIDAYA LAUT AMBON	Banggai Cardinalfish, Fuzzy Time Series Singh, RMSE
+Implementasi Fuzzy Time Series pada Prediksi Jumlah Penjualan Rumah	Rumah, Fuzzy Time Series, Peramalan, MAPE
+PERBANDINGAN MODEL CHEN DAN MODEL LEE PADA METODE FUZZY TIME SERIES UNTUK PREDIKSI HARGA EMAS	Average based fuzzy time series, prediksi emas, model Chen, model Lee
+PERAMALAN JUMLAH TANDAN BUAH SEGAR (TBS) KELAPA SAWIT DENGAN METODE FUZZY TIME SERIES CHEN DAN ALGORITMA RUEY CHYN TSUR (STUDI KASUS PADA PT. XYZ)	kelapa sawit, peramalan, metode fuzzy, algoritma, afer, time series
+Identifikasi Kelainan Jantung Menggunakan Pola Citra Digital Electrocardiogram	Electrocardiograph, Electrocardiogram, Image Processing, Smoothing, Segmentation, Normalisation, Thinning, Line
+METODE INTERPOLASI DAN IMPLEMENTASINYA DALAM CITRA DIGITAL	Interpolasi, Pemetaan, Citra Digital
+PENERAPAN INTERPOLASI LINIER UNTUK DETEKSI GARIS LURUS PADA CITRA GAMBAR	deteksi garis lurus, interpolasi linear, garis lurus, linier
+PENGOLAHAN CITRA DIGITAL PERBANDINGAN METODE HISTOGRAM EQUALIZATION DAN SPESIFICATION PADA CITRA ABU-ABU	Segmentasi, Citra Digital, Equalization Histogram
+Peningkatan Resolusi Citra Digital dengan interpolasi bilinear	Resolusi, citra digital, interpolasi bilinear
+Perbandingan antara Metode Otsu Thresholding dan Multilevel Thresholding untuk Segmentasi Pembuluh Darah Retina	Segmentasi, Otsu Thresholding, Multilevel Thresholding, Pembuluh Darah Retina, STARE
+BINERISASI CITRA TANGAN DENGAN METODE OTSU	Binerisasi, Metode Otsu, histogram citra, analisis diskriminan
+PENERAPAN ALGORITMA WINNOWING UNTUK MENDETEKSI KEMIRIPAN TEKS PADA TUGAS AKHIR MAHASISWA	Tugas akhir, deteksi plagiasi, plagiarisme, winnowing, rolling hash, jaccard coefficient
+OPTIMALISASI PENGELOMPOKAN KECAMATAN BERDASARKAN INDIKATOR PENDIDIKAN MENGGUNAKAN METODE CLUSTERING DAN DAVIES BOULDIN INDEX	clustering, indikator pendidikan, Self Organizing Map (SOM), Davies Bouldin Index (DBI)
+PENGUKURAN KEMIRIPAN DOKUMEN TEKS BAHASA INDONESIA MENGGUNAKAN METODE COSINE SIMILARITY	Cosine Similarity, Data Dummy, Plagiarisme, DFD, TF-IDF
+Implementasi Algoritma Cosine Similarity Dan Metode TF-IDF Berbasis PHP Untuk Menghasilkan Rekomendasi Seminar	Cosine Similarity, Sistem Rekomendasi, TF-IDF, Web
+Analisis Perbandingan Algoritma Rabin-Karp Dan Levenshtein Distance Dalam Menghitung Kemiripan Teks	Teks, Plagiarisme, Rabin-Karp, Levenshtein Distance, Preprocessing
+PERBANDINGAN METODE COSINE SIMILARITY DAN JACCARD SIMILARITY UNTUK PENILAIAN OTOMATIS JAWABAN PENDEK	penilaian otomatis, cosine similarity, jaccard similarity, jawaban pendek, Natural Language Processing
+CASE BASED REASONING UNTUK MENDIAGNOSA PENYAKIT DAN HAMA PADA TANAMAN MANGGA MENGGUNAKAN ALGORITMA SIMILARITAS SORGENFREI	algoritma similaritas Sorgenfrei, Case Based Reasoning, mangga, sistem pakar
+Preprocessing Text untuk Meminimalisir Kata yang Tidak Berarti dalam Proses Text Mining	data, text mining, information, preprocessing
+Reduksi Noise Pada Citra Digital Menggunakan Metode Arithmatic Mean Filter	Citra, Noise, Arithmetic Mean Filter
+Noise Removal Pada Citra Digital Menggunakan Metode Gaussian filter	Banjir, Gaussian filter, Noise, Pengolahan, Citra Digital
+Penerapan Metode Content Based Filtering Dalam Implementasi Sistem Rekomendasi Tanaman Pangan	content based filtering, sistem rekomendasi, tanaman pangan
+Sistem Rekomendasi Bacaan Tugas Akhir Jurusan Teknik Informatika Universitas Sriwijaya menggunakan Metode Collaborative Filtering dan Naive Bayes	Collaborative Filtering, Naive Bayes, Sistem Rekomendasi
+Sistem Rekomendasi Nilai Mata Kuliah Menggunakan Metode Content-Based Filtering	content based filtering, sistem rekomendasi
+SISTEM REKOMENDASI PRODUK UKM DI KOTA BANDUNG MENGGUNAKAN ALGORITMA COLLABORATIVE FILTERING	Collaborative Filtering, UKM, Mobile Android
+Perancangan dan Pembuatan Serious Game Sebagai Simulasi Aktivitas Bisnis dan Akuntansi Menggunakan Pendekatan Agent-Based Modelling	Serious Game, Perilaku Konsumen, Agent-based Model, A*, Stack Finite State Machine, Rule Based System
+Implementasi Machine Learning dalam Penentuan Rekomendasi Musik dengan Metode Content-Based Filtering	Content-Based Filtering, Machine Learning, Sistem Rekomendasi
+SISTEM REKOMENDASI PAKET WISATA SE-MALANG RAYA MENGGUNAKAN METODE HYBRID CONTENT BASED DAN COLLABORATIVE	Sistem Rekomendasi, Metode Hybrid, Content-based Filtering, Collaborative-based Filtering, k-nearest neighbors
+CONTENT BASED DAN COLLABORATIVE FILTERING PADA REKOMENDASI TUJUAN PARIWISATA DI DAERAH YOGYAKARTA	sistem rekomendasi, hybrid filtering, content-based filtering, collaborative filtering, tujuan wisata di Yogyakarta
+Penerapan Metode Content-Based Filtering Pada Sistem Rekomendasi Kegiatan Ekstrakulikuler (Studi Kasus di Sekolah ABC)	attribute, information gain, Naive Bayes, sistem rekomendasi
+Performa Algoritma User K-Nearest Neighbors pada Sistem Rekomendasi di Tokopedia	Sistem Rekomendasi, K-Nearest Neighbors
+REKOMENDASI SISTEM PEMILIHAN MOBIL MENGGUNAKAN K-NEAREST NEIGHBOR (KNN) COLLABORATIVE FILTERING	mobil, K-Nearest Neighbors, collaborative filtering, sistem rekomendasi
+Named Entity Recognition Menggunakan Hidden Markov Model dan Algoritma Viterbi pada Teks Tanaman Obat	Hidden Markov Model, pengenalan entitas bernama, tanaman obat
+Penerapan Hidden Markov Model Pada Harga Saham	Hidden Markov Model, Saham Bank
+Speech Recognition dengan Hidden Markov Model untuk Pengenalan dan Pelafalan Huruf Hijaiyah	Speech Recognition, Hidden Markov Model, Recognizing
+PenerapanHidden Markov Model (HMM) pada Pengenalan Penutur	speech recognition, Mel Frequency Cepstrum Coefficients, Hidden Markov Model
+Pengenalan Kata Berbahasa Indonesia dengan Hidden Markov Model (HMM) menggunakan AIgoritme Baum-Welch	Hidden Markov Model
+Tinjauan Kasus Model Speech Recognition: Hidden Markov Model	Speech recognition, artificial intelligent, model statistik, hidden markov model, media teknologi
+PENERAPAN HIDDEN MARKOV MODEL (HMM) DAN MEL-FREQUENCY CESPTRAL COEFFICIENTS (MFCC) PADA E-LEARNING BAHASA MADURA UNTUK ANAK USIA DINI	e-learning, speech recognition, Mel-Frequency Cepstrum Coefficients, hidden markov model
+Analisis Hidden Markov Model untuk Segmentasi Barisan DNA	DNA, segmentasi DNA, Hidden Markov Model
+Perancangan dan Pembuatan Sistem Pakar Berbasis Runut Maju untuk Diagnosa Awal Perkembangan Emosi pada Anak	sistem pakar, diagnose, emotion development, knowledge base, rules
+PERANCANGAN DAN IMPLEMENTASI DATA WAREHOUSE UNTUK MENDUKUNG SISTEM AKADEMIK (STUDI KASUS PADA STKIP MUHAMMADIYAH KOTABUMI)	data warehouse, data akademik STKIP Muhammadiyah Kotabumi
+RANCANGAN DATA WAREHOUSE UNTUK PENUNJANG SISTEM INFORMASI EKSEKUTIF PADA YAYASAN UMMU’L QURO DI DEPOK	Top Down, Data Warehouse, Sistem Pendukung Keputusan
+PERANCANGAN DATA WAREHOUSE PADA RUMAH SAKIT (STUDI KASUS: BLUD RSU KOTA BANJAR)	Data Warehouse, Nine Step Methodology, Skema, Rumah Sakit
+PENGEMBANGAN DATA WAREHOUSE SEBAGAI SARANA PENUNJANG KEGIATAN AKADEMIK INSTITUT SAINS DAN TEKNOLOGI AL-KAMAL	Data Warehouse, Four Step Methodology, Snowflake Scheme
+Aplikasi Data Warehouse untuk Analisa Penjualan Mobil Berbasis Multidimensional modeling (MDM) dan Star Scheme Design	Data warehouse, multidimensional modeling, OLAP, star scheme
+PEMANFAATAN DATA WAREHOUSE SEBAGAI SARANA PENUNJANG PENYUSUNAN BORANG AKREDITASI STANDAR 3 PADA FAKULTAS TEKNOLOGI INFORMASI UNIVERSITAS BUDI LUHUR	Model, Data Warehouse, Business Life Cycle, Akreditasi, Borang
+Pengembangan Data WarehousePenerimaan Mahasiswa Baru Untuk Informasi Strategik Pada Universitas BSI	Data Warehouse, Keputusan Strategik, Penerimaan Mahasiswa Baru
+PERANCANGAN DATA WAREHOUSE PENJUALAN UNTUK PERHITUNGAN LABA RUGI (Studi Kasus di Era 5000 Lembuswana Samarinda)	Data Warehouse, OLTP
+Data Mining : Klasifikasi Menggunakan Algoritma C4.5	Data mining, Klasifikasi, Algoritma C4.5, decision tree
+Penggunaan Data Mining dalam Kegiatan Sistem Pembelajaran Berbantuan Komputer	analisis data, data mining, computer aided learning system, knowledge, pembelajaran siswa
+DATA MINING UNTUK MEMPREDIKSI PRESTASI SISWA BERDASARKAN SOSIAL EKONOMI, MOTIVASI, KEDISIPLINAN DAN PRESTASI MASA LALU	data mining
+Sistem Pakar Mendiagnosa Penyakit Ikan Hias Air Tawar Sistem Pakar Mendiagnosa Penyakit Ikan Hias Air Tawar Berbasis Web	Sistem Pakar, Fordward Chaining, Theorema Bayes, Penyakit Ikan Hias Air Tawar
+SISTEM PAKAR MENGGUNAKAN TEOREMA BAYES UNTUK PREDIKSI PENYAKIT TROPIS	sistem pakar, teorema bayes, penyakit malaria, demam Berdarah, demam typoid
+PEMODELAN SISTEM PAKAR UNTUK IDENTIFIKASI PENYAKIT PADA TANAMAN KEDELAI MENGGUNAKAN METODE FUZZY K-NEAREST NEIGHBOR	Pemodelan sistem pakar, klasifikasi, fuzzy k-nearest neighbors, kedelai
+PERANCANGAN APLIKASI SISTEM PAKAR UNTUK MENDIAGNOSA PENYAKIT GINJAL DENGAN METODE DEMPSTER SHAFER	Diagnosa Penyakit Ginjal, Sistem Pakar, Metode Dempster-Shafer
+PERAMALAN DATA PRODUK DOMESTIK REGIONAL BRUTO DAERAH ISTIMEWA YOGYAKARTA MENGGUNAKAN KOMBINASI FUZZY TIME SERIES CHEN DENGAN PARTICLE SWARM OPTIMIZATION	Peramalan, PDRB, Fuzzy Time Series Chen, Particle Swarm Optimization
+PERAMALAN PENJUALAN SEPEDA MOTOR DI INDONESIA MENGGUNAKAN METODE HOLT-WINTER’S EXPONENTIAL SMOOTHING DAN FUZZY TIME SERIES-CHEN BERBASIS RATA-RATA	Peramalan, Fuzzy Time Series Chen Average Based, Holt winter’s Exponential Smoothing
+SEGMENTASI CITRA DIGITAL DENGAN MENGGUNAKAN ALGORITMA WATERSHED DAN LOWPASS FILTER SEBAGAI PROSES AWAL	Segmentasi, Watershed, Lowpass Filter, Citra Digital
+PENGANTAR ANALISIS CITRA DOKUMEN TEKS	OCR, data capture, pixel level processing, character recognition
+Analisis Citra Digital Dengan Menggunakan Teknik Penajaman Citra	citra digital, landsat, citra komposit
+BINERISASI CITRA TANGAN DENGAN METODE OTSU	Binerisasi, Metode Otsu, histogram citra
+PENERAPAN SISTEM PAKAR DIAGNOSA PENYAKIT TERNAK DENGAN MENGGUNAKAN METODE FORWARD CHAINING (STUDI KASUS : DINAS PETERNAKAN KABUPATEN DHARMASRAYA)	Sistem, Pakar, Komputerisasi, Ternak, Forward Chaining
+PEMODELAN SISTEM PAKAR ANALISIS KARAKTERISTIK ANAK PRASEKOLAH DENGAN GENRE MUSIK	ekspresi, karakter, Certainty Factor (CF), sistem pakar
+SISTEM PAKAR DENGAN METODE DEMPSTER SISTEM PAKAR DENGAN METODE DEMPSTER SISTEM PAKAR DENGAN METODE DEMPSTER MAGELANG	sistem pakar, gangguan jaringan, diagnosis, Dempster Shafer
+PERANCANGAN DAN IMPLEMENTASI SISTEM PAKAR DIAGNOSA KERUSAKAN KENDARAAN TOYOTA BERBASIS ANDROID	Sistem Pakar, Backward Chaining, Certainty Factor
+PERBANDINGAN MODEL CHEN DAN MODEL CHENG PADA ALGORITMA FUZZY TIME SERIES UNTUK PREDIKSI HARGA BAHAN POKOK	Fuzzy Time Series, Chen, Cheng, MAPE
+PERAMALAN DATA PRODUK DOMESTIK BRUTO DENGAN FUZZY TIME SERIES MARKOV CHAIN	Fuzzy time series Markov chain, Produk Domestik Bruto, grup logika fuzzy
+FUZZY TIME SERIES SEBAGAI METODE PERAMALAN INDEKS HARGA GABUNGAN PASAR MODAL	Peramalan, fuzzy time series, moving average
+PERBANDINGAN METODE FUZZY TIME SERIES MODEL CHEN DAN SINGH PADA NILAI EKSPOR INDONESIA TAHUN 1999-2020	Chen, Fuzzy Time Series, MAPE, Singh
+PERBANDINGAN METODE RUNTUN WAKTU FUZZY-CHEN DAN FUZZY-MARKOV CHAIN UNTUK MERAMALKAN DATA INFLASI DI INDONESIA	fuzzy time series, Markov chain, MSE, MAPE
+Sistem Pendukung Keputusan Penyeleksian Colour Guard Pada Marching Band Ginada Dengan Menggunakan Metode Vikor Dan Borda	Sistem Pendukung Keputusan, VIKOR Borda, Kriteria Penyeleksian
+SISTEM PENENTUAN KUALITAS PISANG MENGGUNAKAN METODE FUZZY TSUKAMOTO	Sistem Pendukung Keputusan, Pisang, Fuzzy tsukamoto
+Sistem Pendukung Keputusan Penerimaan Pegawai Baru Menerapkan Metode VIKOR dan MOORA	Rekrutmen, Kriteria, Sistem Pendukung Keputusan, Vikor, Moora
+Penerapan Metode VIKOR Pada Pemilihan Popok Bayi Berdasarkan Jenis Kulit	Sistem Pendukung Keputusan, Metode Vikor, Pemilihan Popok Bayi, Ruam Popok, Popok Bayi
+Penerapan VIKOR (VlseKriterijumska Optimizacija I Kompromisno Resenje) Dalam Mendukung Keputusan Pemberian Bantuan Raskin	Penerima Bantuan Keluarga Miskin, Sistem Pendukung Keputusan, VIKOR
+SISTEM PENDUKUNG KEPUTUSAN DIAGNOSA PENYAKIT KANKER SERVIKS DENGAN METODE CERTAINTY FACTOR BERBASIS WEB STUDI KASUS : RUMAH SAKIT LABUANG BAJI MAKASSAR	Web, Aplikasi, Certainty Factor, Kanker Serviks, Sistem Pendukung Keputusan
+PEMILIHAN EMARKETPLACE DENGAN METODE FUZZY AHP-VIKOR	Fuzzy AHP VIKOR, Pemilihan marketplace
+Sistem Pendukung Keputusan Pembelian Mobil Bekas Dengan Menerapkan Metode VIKOR	Mobil Bekas, VIKOR, Sistem Pendukung Keputusan
+Sistem Pendukung Keputusan Penerima Pinjaman Pada Koperasi Unit Desa (KUD) Dengan Metode VIKOR	Sistem Pendukung Keputusan, VIKOR, KUD, Koperasi
+Sistem Pendukung Keputusan Pemilihan Media Pembelajaran Daring Menggunakan Metode AHP	AHP, Sistem Pendukung Keputusan
+SISTEM PENDUKUNG KEPUTUSAN PENERIMA ZAKAT DENGAN METODE SIMPLE ADDITIVE WEIGHTING	Mustahik, Sistem Pendukung Keputusan, Simple Additive Weighting
+Sistem Pendukung Keputusan PemilihanKetua Prodi Teknik Informatika Menerapkan Metode WASPAS dan VIKOR	Sistem Pendukung Keputusan, WASPA dan VIKOR, Pemilihan Ketua Prodi
+Penerapan Metode AHP dan VIKOR Dalam Pemilihan Karyawan Berprestasi	Sistem Pengambilan Keputusan (SPK), Karyawan Berprestasi, AHP, VIKOR
+Implementasi Metode TOPSIS pada Penerima Bantuan Sosial Akibat Covid19 di Desa Kotabatu Ciomas BogorDecision	Sistem Pendukung Keputusan, Covid Social Assistance Recipients, Metode TOPSIS
+SISTEM PENDUKUNG KEPUTUSAN MENDIAGNOSA PENYAKIT VIRUS CORONA(COVID-19) MENGGUNAKAN METODE DEMPSTER-SHAFER	Dempster, Mendiagnosa, Sistem Pendukung Keputusan
+Implementasi Metode Simple Additive Weighting Untuk Sistem Pendukung Keputusan Karyawan Terbaik PT BPR Parasahabat Tangerang	Sistem Pendukung Keputusan, Simple Additive Weighting, Karyawan Terbaik
+Sistem Pendukung Keputusan Penentuan Jenis Kulit Terbaik Untuk Pembuatan Sepatu Dengan Menggunakan Metode VIKOR	Sistem Pendukung Keputusan, Sepatu, VIKOR
+Penerapan Metode VIKOR Dalam Penentuan Penerima Dana Bantuan Rumah Tidak Layak Huni	Sistem Pendukung Keputusan, VIKOR
+Penerapan Metode VIKOR(VlseKriterijumska Optimizacija I Kompromisno Resenje) Dalam Membeli Smartphone	Smartphone, Sistem Pendukung Keputusan, VIKOR
+Implementasi Pendukung Keputusan Dalam Pemilihan Calon Peserta Cerdas Cermat Tingkat SMA Menerapkan Metode VIKOR	Sistem Pendukung Keputusan, VIKOR
+Perancangan Sistem Pendukung Keputusan Penerimaan Siswa Baru Dengan Menerapkan Metode VIKOR	Sistem Pendukung Keputusan, Siswa Baru, VIKOR
+Sistem Pendukung Keputusan Penerima Bantuan Covid-19 Menggunakan Metode Simple Additive Weighting (SAW)	Sistem Pendukung Keputusan, Pandemi, COVID, Simple Additive Weighting
+Sistem Pendukung Keputusan Penentuan Lokasi Pembangunan Peternakan Ayam Menggunakan Metode MOORA	Sistem Pendukung Keputusan, MOORA
+SISTEM PENDUKUNG KEPUTUSAN PEMILIHAN PERSONIL DITRESKRIMSUS BERPRESTASI MENERAPKAN METODE VIKOR (STUDI KASUS: POLDA SUMUT)	sistem pendukung keputusan, ditreskrimsus, vikor
+SISTEM PENDUKUNG KEPUTUSAN PENENTUAN RUMAH TANGGA MISKIN MENGGUNAKAN METODE SIMPLE ADDITIVE WEIGHTING (SAW)	Simple Additive Weighting, User, Web
+Metode SAW (Simple Additive Weighting) sebagai Sistem Pendukung Keputusan Guru Berprestasi ( Studi Kasus : SMK Global Surya)	Simple Additive Weighting, sistem pendukung keputusan
+Sistem Pendukung Keputusan Menentukan Karyawan Terbaik Dengan Metode AHP	Karyawan Terbaik, Kriteria, Alternatif, Metode AHP
+PENERAPAN METODE ELECTRE SEBAGAI SISTEM PENDUKUNG KEPUTUSAN DALAM PENERIMAAN BEASISWA	sistem pendukung keputusan, Beasiswa, Electre
+Aplikasi Pendukung Keputusan untuk Pemilihan Produk Asuransi dengan Metode Entropy dan Vikor pada AJB Bumiputera 1912 Jepara	Entropy, Vikor, sistem pendukung keputusan
+Penerapan Metode SMART dalam Seleksi Penerima Bantuan Sosial Warga Masyarakat Terdampak COVID-19	Covid, Bantuan Sosial, Sistem Pendukung Keputusan, Simple Multi-Attribute Rating Technique
+Deteksi Mahasiswa Yang Dapat Menyusun Tugas Akhir dengan Metode Visekriterijumsko Kompromisno Rangiranje (VIKOR)	Deteksi Awal, Tugas Akhir, VIKOR, Web
+Sistem Pendukung Keputusan Pemilihan Siswa Berprestasi di Sekolah Menengah Pertama dengan Metode VIKOR dan TOPSIS	AHP, Pemilihan Siswa Berprestasi, Sistem Pendukung Keputusan, TOPSIS, VIKOR
+PENENTUAN PANGAN LAYAK KONSUMSI DI MASA PANDEMI COVID-19 DENGAN SISTEM PENDUKUNG KEPUTUSAN MENGGUNAKAN METODE MFEP	Sistem Pendukung Keputusan, MFEP,COVID-19, Pandemi, Pangan
+Sistem Pendukung Keputusan Penerima Bantuan Langsung Tunai (BLT) Tepat Sasaran Menggunakan Metode AHP dan K-Means	Sistem Pendukung Keputusan, AHP, BLT
+Penerapan Metode VlseKriterijumska Optimizacija I Kompromisno Resenje (VIKOR) dalam Pemilihan Air Conditioner Terbaik	Sistem Pendukung Keputusan, Metode Vikor, Air Conditioner.
+Sistem Pendukung Keputusan Dalam Pemilihan Pergururan Tinggi Terbaik Dengan Menggunakan Metode SAW (Simple Additive Weighting)	Perguruan Tinggi, Sistem Pendukung Keputusan, Metode Simple Additive Weighting
+Perbadingan Metode Weight Product dan Vikor Dalam Menentukan Siswa Berprestasi	Sistem Pendukung Keputusan, Vikor, WP
+Sistem Pendukung Keputusan Bantuan Langsung Tunai Pada Masa Pandemi Covid 19 Menggunakan Perbandingan Metode Simple Additive Weighting dan Fuzzy Berbasis Website (Studi Kasus : Desa Krisik, Kecamatan Gandusari, Kabupaten Blitar)	Sistem Pendukung Keputusan, Bantuan Langsung Tunai, Simple Additive Weighting, Fuzzy
+Sistem Pendukung Keputusan Rekomendasi Penerima Beasiswa Menggunakan Fuzzy Multi Attribut Decision Making (FMADM) dan Simple Additive Weighting (SAW)	Fuzzy Multi Attribut Decision Making, Simple Additive Weighting, kriteria, alternatif, Sistem Pendukung Keputusan
+Sistem Pendukung Keputusan Pemilihan Produk Asuransi Studi Kasus : PT Commonwealth Life Pontianak	Asuransi, Sistem Pendukung Keputusan, AHP, TOPSIS
+Perancangan Sistem Pendukung Pengambilan Keputusan untuk Penerimaan  Beasiswa dengan Metode SAW  (Simple Additive Weighting)	Sistem Pendukung Keputusan, Simple Additive Weighting
+Sistem Pendukung Keputusan Pemilihan Dosen Terbaik dengan menggunakan Metode TOPSIS	Sistem Pendukung Keputusan, TOPSIS
+SISTEM PENDUKUNG KEPUTUSAN PEMILIHAN KARYAWAN TERBAIK DENGAN METODE ELECTRE (STUDI KASUS : SWALAYAN MAJU BERSAMA)	Sistem Pendukung Keputusan, Karyawan Terbaik, Metode Electre
+Klasifikasi Data Karyawan Untuk Menentukan Jadwal Kerja Menggunakan Metode Decision Tree	Data mining, jadwal kerja, Decision Tree, algoritma C4.5
+PENGGUNAAN POHON KEPUTUSAN (DECISION TREE) UNTUK PENGAMBILAN KEPUTUSAN DALAM PENERIMAAN PEGAWAI	Analisa Resiko, Pegawai, Penerimaan Pegawai, Decision Tree, Sistem Pendukung Keputusan
+PERBANDINGAN METODE JARINGAN SYARAF TIRUAN DAN POHON KEPUTUSAN UNTUK PREDIKSI CHURN	data mining, churn, jaringan syaraf tiruan, Decision Tree
+SISTEM PENDUKUNG KEPUTUSAN PEMILIHAN PROGRAM STUDI CALON PESERTA DIDIK MENGGUNAKAN METODE POHON KEPUTUSAN C4.5	Sistem Pendukung Keputusan, Klasifikasi, Decision Tree,Algoritma C.45, Pemilihan Jurusan, K-Fold CrossValidation
+Pemanfaatan Pohon Keputusan dan Graf Dalam Pemetaan Karyawan Berbasis Kompetensi	Pemanfaatan Decision Tree dan Graf
+INTEGRASI ALGORITMA POHON KEPUTUSAN C4.5 YANG DIKEMBANGKAN KE DALAM OBJECT-RELATIONAL DBMS	pengembangan algoritma C.5, algoritma C4.5
+PENGUJIAN ALGORITMA C 4.5 DENGAN APLIKASI WEKA DALAM PEMBENTUKAN POHON KEPUTUSAN	Data mining, C4.5, Decision Tree, Weka
+POHON KEPUTUSAN DALAM PENGKLASIFIKASIAN PENJURUSAN SISWA SEKOLAH MENENGAH ATAS (SMA)	C45, Decision Tree, Klasifikasi
+KLASIFIKASI POHON KEPUTUSAN UNTUK KAJIAN PERUBAHAN PENGGUNAAN LAHAN KOTA SEMARANG MENGGUNAKAN CITRA LANDSAT TM/ETM+	Decision Tree, klasifikasi
+PENERAPAN DATA MINING MENGGUNAKAN POHON KEPUTUSAN DENGAN ALGORITMA C4.5 DALAM MENENTUKAN KECELAKAAN PENERBANGAN	C4.5, klasifikasi, penerbangan, Decision Tree	
+MENENTUKAN KEMUNGKINAN MASUKNYA CALON MAHASISWA BARU PADA SEBUAH PERGURUAN TINGGI SWASTA MANGGUNAKAN TEKNIK KLASIFIKASI POHON KEPUTUSAN DENGAN APLIKASI RAPIDMINER 5.1	data, informasi, Decision Tree, aplikasi RapidMiner
+GENERATOR POHON KEPUTUSAN DENGAN MENERAPKAN ALGORITMA C4.5 UNTUK PROGRAM KONSULTASI	Algoritma C4.5, Decision Tree	
+Perbandingan Kinerja Hasil Seleksi Fitur pada Prediksi Kinerja Akademik Siswa Berbasis Pohon Keputusan	data mining, C4.5, Coorelationbased feature selection, Information gain.
+Klasifikasi Data Karyawan Untuk Menentukan Jadwal Kerja Menggunakan Metode Decision Tree	Data mining, Decision Tree, algoritma C4.5.
+IMPLEMENTASI DATA MINING DENGAN METODE POHON KEPUTUSAN ALGORITMA ID3 UNTUK MENENTUKAN STATUS MAHASISWA	Kompetensi, Status, Data Mining, Algoritma ID3
+ALGORITMA CART DALAM PENENTUAN POHON KEPUTUSAN SERTIFIKASI GURU	CART, Decision Tree
+Pendekatan Metode Pohon Keputusan Menggunakan Algoritma ID3 Untuk Sistem Informasi Pengukuran	algoritma ID3, Decision tree
+IMPLEMENTASI METODE POHON KEPUTUSAN UNTUK KLASIFIKASI DATA DENGAN NILAI FITUR YANG TIDAK PASTI	Klasifikasi, DecisionTree, Uncertain Data
+DECISION TREE BERBASIS ALGORITMA UNTUK PENGAMBILAN KEPUTUSAN	Data Mining, Decision Tree, Pengambilan Keputusan.
+TEKNIK KLASIFIKASI POHON KEPUTUSAN UNTUK MEMPREDIKSI KEBANGKRUTAN BANK BERDASARKAN RASIO KEUANGAN BANK	Decision Tree, algoritma C4.5
+Klasifikasi dengan Pohon Keputusan Berbasis Algoritme C4.5	Data mining, klasifikasi, Decision Tree, ID3, algoritme C4.5
+Optimalisasi model prediksi kesesuaian lahan kelapa sawit menggunakan algoritme pohon keputusan spasial	kelapa sawit, Decision Tree, spatial join relation
+Pengenalan Pola Emosi Manusia Berdasarkan Ucapan Menggunakan Ekstraksi Fitur Mel-Frequency Cepstral Coefficients (MFCC)	Mel-Frequency Cepstral Coefficients
+ANALISIS VARIASI PARAMETER BACKPROPAGATION ARTIFICIAL NEURAL NETWORK TERHADAP PENGENALAN POLA DATA IRIS	jaringan syaraf tiruan, backpropagation, epoch, error, jaringan syaraf tiruan, recognition rate.
+PENGENALAN POLA TULISAN TANGAN AKSARA ARAB MENGGUNAKAN METODE CONVOLUTION NEURAL NETWORK	pengenalan pola, convolution neural network, machine learning
+PENGGUNAAN ALGORITMA GENETIKA DALAM PENINGKATAN KINERJA FUZZY CLUSTERING UNTUK PENGENALAN POLA	fuzzy cluctering, Algoritma Genetika
+PENGENALAN POLA HURUF HIJAIYAH KHAT KUFI DENGAN METODE DETEKSI TEPI SOBEL BERBASIS JARINGAN SYARAF TIRUAN BACKPROPAGATION	Deteksi Tepi Sobel, Jaringan Syaraf Tiruan Backpropagation, Simulasi
+Pengenalan Pola Tanda Tangan dengan Metode Momennt Invariant dan Euclidean Distance	moment invariant, euclidean distance, citra digital
+Implementasi Metode k-Nearest Neighbor pada Pengenalan Pola Tekstur Citra Saliva untuk Deteksi Ovulasi	deteksi ovulasi, k-nearest neighbors.
+PENGENALAN POLA TANDA TANGAN MENGGUNAKAN METODE MOMENT INVARIANT DAN JARINGAN SYARAF RADIAL BASIS FUNCTION (RBF)	Jaringan syaraf tiruan, RBF, moment invariant
+PENGENALAN POLA TANDA TANGAN MENGGUNAKAN METODE JARINGAN SYARAF TIRUAN BACKPROPAGATION	Jaringan saraf tiruan Backpropagation, vertical horzontal splitting, support vector machine
+IMPLEMENTASI PENGENALAN POLA SUARA MENGGUNAKAN MEL-FREQUENCY CEPSTRUM COEFFICIENTS (MFCC) DAN ADAPTIVE NEURO-FUZZY INFERENSE SYSTEM (ANFIS) SEBAGAI KONTROL LAMPU OTOMATIS	Mel-Frequency Cepstrum Coefficients, ANFIS
+PEMANFAATAN RASPBERRY PI SEBAGAI PROCESSOR PADA PENDETEKSIAN DAN PENGENALAN POLA WAJAH	face detection and recognition, Raspberry pi, pengolahan citra, embedded system
+HANDWRITTER JAWANESSE CHARACTER RECOGNATION SYSTEM USING ARTIFICIAL NETWORK BACK PROPAGATION	normalization, jaringan syaraf tiruan, backpropagation
+PENGENALAN POLA PADA CITRA DIGITAL DENGAN FITUR MOMEN INVARIANT	Pengenalan Pola, Ekstraksi Fitur, Momen Invariant, Binerisasi
+Pengenalan Pola Untuk Deteksi Uang Koin	Pengenalan Pola, Ekstraksi fitur, Klasifikasi
+APLIKASI JARINGAN SYARAF TIRUAN UNTUK PENGENALAN POLA PEMBUKAAN PERMAINAN CATUR	Jaringan Syaraf Tiruan
+PENGENALAN POLA TANDA TANGAN DENGAN MENGGUNAKAN METODE PRINCIPAL COMPONENT ANALYSIS (PCA)	citra
+IMPLEMENTASI LEARNING VECTOR QUANTIZATION (LVQ) UNTUK PENGENAL POLA SIDIK JARI PADA SISTEM INFORMASI NARAPIDANA LP WIROGUNAN	pengenalan pola, Learning Vector Quantization
+Perbandingan Antara Metode Kohonen Neural Network dengan Metode Learning Vector Quantization Pada Pengenalan Pola Tandatangan	Kohonen neural network, Learning Vector Quantization, pengenalan pola
+Klasifikasi Pengangguran Terbuka Menggunakan CART (Classification and Regression Tree) di Provinsi Sulawesi Utara	Klasifikasi, CART
+Kinerja Algoritma Classification and Regression Tree (Cart) dalam Mengklasifikasikan Lama Masa Studi Mahasiswa yang Mengikuti Organisasi di Universitas Negeri Jakarta	CART, klasifikasi, Data Mining
+ANALISIS SENTIMEN PELANGGAN TOKO ONLINE JD.ID MENGGUNAKAN METODE NAÏVE BAYES CLASSIFIER BERBASIS KONVERSI IKON EMOSI	analisis sentimen, naive bayes
+ANALISIS SENTIMEN WACANA PEMINDAHAN IBU KOTA INDONESIA MENGGUNAKAN ALGORITMA SUPPORT VECTOR MACHINE (SVM)	analisis sentimen, support vector machine
